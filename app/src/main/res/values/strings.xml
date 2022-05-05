@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My1</string>
+    <string name="NameGame">TrampMoney</string>
+    <string name="start">Играть</string>
+    <string name="exit">Выход</string>
+    <string name="todo">TODO</string>
+    <string name="info">Справка</string>
+    <string name="help">Как играть ?</string>
+    <string name="InfoGame">Об игре</string>
+</resources>
